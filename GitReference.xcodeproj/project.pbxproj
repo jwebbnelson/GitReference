@@ -19,6 +19,7 @@
 		71FE60EA1921DE340008A2FB /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 71FE60D21921DE340008A2FB /* UIKit.framework */; };
 		71FE60F21921DE340008A2FB /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 71FE60F01921DE340008A2FB /* InfoPlist.strings */; };
 		71FE60F41921DE340008A2FB /* GitReferenceTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 71FE60F31921DE340008A2FB /* GitReferenceTests.m */; };
+		838EACC51A80499C00EBC682 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 838EACC41A80499C00EBC682 /* ViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
